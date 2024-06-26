@@ -28,7 +28,7 @@ status-website:
     summary: "0 0 * * *"
     updateTemplate: "0 0 * * *"
     updates: "0 3 * * *"
-    uptime: "*/13 * * * *"
+    uptime: "*/20 * * * *"
 
 # Status page powered by Upptime 
 # also supports notifications, assigning issues, and more
