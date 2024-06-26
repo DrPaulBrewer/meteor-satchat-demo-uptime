@@ -15,7 +15,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: meteor-satchat demo uptime monitor
   navbar:
-    - title: GitHub
+    - title: satchat-demo
+      href: http://159.65.111.7:3000
+    - title: satchat-github
+      href: https://github.com/drpaulbrewer/meteor-satchat
+    - title: monitoring-github
       href: https://github.com/$OWNER/$REPO
   workflowSchedule:
     graphs: "0 0 * * *"
