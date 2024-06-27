@@ -4,19 +4,19 @@
     "url": "http://159.65.111.7:3000",
     "icon": "https://icons.duckduckgo.com/ip3/159.65.111.7.ico",
     "slug": "satchat-demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 105,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
+    "time": 132,
+    "timeDay": 147,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-06-27": 0
+      "2024-06-27": 13
     }
   }
 ]
