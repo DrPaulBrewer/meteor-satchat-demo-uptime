@@ -1,8 +1,8 @@
 [
   {
     "name": "Satchat demo",
-    "url": "http://159.65.111.7:3000",
-    "icon": "https://icons.duckduckgo.com/ip3/159.65.111.7.ico",
+    "url": "https://satchat.cq.cyou",
+    "icon": "https://icons.duckduckgo.com/ip3/satchat.cq.cyou.ico",
     "slug": "satchat-demo",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 246,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 274,
+    "timeDay": 765,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   }
 ]
