@@ -4,7 +4,7 @@ repo: meteor-satchat-demo-uptime # The name of this repository
 
 sites:
   - name: Satchat demo
-    url: http://159.65.111.7:3000
+    url: https://satchat.cq.cyou
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +16,7 @@ status-website:
   name: meteor-satchat demo uptime monitor
   navbar:
     - title: satchat-demo
-      href: http://159.65.111.7:3000
+      href: https://satchat.cq.cyou
     - title: satchat-github
       href: https://github.com/drpaulbrewer/meteor-satchat
     - title: monitoring-github
