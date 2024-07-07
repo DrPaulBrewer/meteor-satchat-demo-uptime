@@ -4,18 +4,19 @@
     "url": "https://satchat.cq.cyou",
     "icon": "https://icons.duckduckgo.com/ip3/satchat.cq.cyou.ico",
     "slug": "satchat-demo",
-    "status": "up",
-    "uptime": "99.53%",
+    "status": "down",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 399,
     "timeDay": 301,
     "timeWeek": 449,
     "timeMonth": 399,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2024-07-07": 0,
       "2024-07-02": 21,
       "2024-06-28": 53
     }
